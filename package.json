@@ -1,0 +1,15 @@
+{
+	"name": "clase-22",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"test:coverage": "jest --coverage"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^27.1.1"
+	}
+}
